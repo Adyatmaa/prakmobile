@@ -1,2 +1,2 @@
-# prak-mobile
+# prakmobile
  Praktikum Mobile Programming
