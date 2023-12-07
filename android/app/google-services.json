@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "364296449748",
+    "firebase_url": "https://gundo-apis-default-rtdb.firebaseio.com",
+    "project_id": "gundo-apis",
+    "storage_bucket": "gundo-apis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364296449748:android:f0b3bdb268418922e81541",
+        "android_client_info": {
+          "package_name": "com.example.prakmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuNYCTeTZy3yLA53usHoR9rGavy2bjK3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
