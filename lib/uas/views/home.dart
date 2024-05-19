@@ -222,7 +222,7 @@ class _HomeScreenState extends State<HomeScreen> {
           ],
         ),
       ),
-      bottomNavigationBar: AnimatedBottomNavigationBar(
+        bottomNavigationBar: AnimatedBottomNavigationBar(
         icons: iconList,
         activeIndex: _botnavInd,
         leftCornerRadius: 32,
